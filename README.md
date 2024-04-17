@@ -1,12 +1,12 @@
 # Gorira_Tatsu / Tatsuhiko Akiyama
 
 ## About Me
-Name: Gorira_Tatsu / Tatsuhiko Akiyama
-Education: High School Student (Private) Grade 11th
-Birth: 2008-01-01
-E-Mail: tatsuhiko.shigoto@gmail.com
+- Name: Gorira_Tatsu / Tatsuhiko Akiyama  
+- Education: High School Student (Private) Grade 11th  
+- Birth: 2008-01-01  
+- E-Mail: tatsuhiko.shigoto@gmail.com  
 
-[Website](https://gorira.netlify.app/) [Twitter](https://twitter.com/Gorira_Tatsu) [LinkedIn](https://www.linkedin.com/in/tatsuhiko-aki/) [GitHub](https://github.com/gorira-tatsu)
+[Website](https://gorira.netlify.app/) [Twitter](https://twitter.com/Gorira_Tatsu) [LinkedIn](https://www.linkedin.com/in/tatsuhiko-aki/) [GitHub](https://github.com/gorira-tatsu)  
 
 I'm conducting research on a method to detect and suppress hallucinations in large language models from the intermediate representations, without referring to external databases.
 
