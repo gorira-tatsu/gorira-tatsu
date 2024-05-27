@@ -1,7 +1,7 @@
-# Gorira_Tatsu / Tatsuhiko Akiyama
+# Tokolia (OldName Gorira-Tatsu) / Tatsuhiko Akiyama
 
 ## About Me
-- Name: Gorira_Tatsu / Tatsuhiko Akiyama  
+- Name: Tokolia / Tatsuhiko Akiyama  
 - Education: High School Student (Private) Grade 11th  
 - Birth: 2008-01-01  
 - E-Mail: tatsuhiko.shigoto@gmail.com  
