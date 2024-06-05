@@ -20,6 +20,8 @@ Hallucination, Large Language Models (LLM), Natural Language Processing (NLP), M
 - 情報処理学会 ポスター発表 (2024年)
     - Mitigating Hallucination of Language Models without References by Uncertainty Estimation and Rule-based Analysis
     - https://www.gakkai-web.net/ipsj/86/event/html/event/B-16.html
+    - ポスター https://www.nii.ac.jp/tatsujin/2024/03/03_akiyamatatsuhiko.pdf
+    - 動画 https://vimeo.com/user111016011/review/919914996/0960db71b6 (Password
 - GSC全国受講生発表会 ポスター発表 (2023年)
     - Interaction between Hallucination and Word Prediction Distributions: Proposal of New Confidence Parameters
     - https://www.jst.go.jp/cpse/gsc/about/happyou/r5_1.pdf
