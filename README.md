@@ -17,7 +17,7 @@ I'm conducting research on a method to detect and suppress hallucinations in lar
 Hallucination, Large Language Models (LLM), Natural Language Processing (NLP), Machine Learning, Human-Computer Interaction (HCI)
 
 ## 獲得奨学金
-- (未発表)財団 (2024年)
+- (未発表)財団 (2024年-)
 
 ## 発表
 - 情報処理学会 ポスター発表 (2024年)
