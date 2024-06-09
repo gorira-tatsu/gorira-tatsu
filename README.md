@@ -16,6 +16,9 @@ I'm conducting research on a method to detect and suppress hallucinations in lar
 ## 研究分野
 Hallucination, Large Language Models (LLM), Natural Language Processing (NLP), Machine Learning, Human-Computer Interaction (HCI)
 
+## 獲得奨学金
+- (未発表)財団 (2024年)
+
 ## 発表
 - 情報処理学会 ポスター発表 (2024年)
     - Mitigating Hallucination of Language Models without References by Uncertainty Estimation and Rule-based Analysis
@@ -31,6 +34,9 @@ Hallucination, Large Language Models (LLM), Natural Language Processing (NLP), M
 - 日本情報オリンピック2023/24 敢闘賞
 
 ## 経験
+- SecHack365 研究駆動コース 採択(2024年-)
+    - NICTの行う25歳以下を対象にした、セキュリティイノベーターとしてセキュリティのさまざまな課題にアイディアで切り込める人材を育成するプログラムに採択。
+    - 京都産業大学の井上博之、大阪大学の猪俣敦夫、デロイトトーマツサイバー合同会社の神薗雅紀、株式会社セキュアサイクルの服部祐一に研究指導を受けている。
 - 情報科学の達人 採択 (2023年-)
     - 世界のトップクラスの数学理解、アルゴリズム理解、プログラミング・ソフトウェア開発能力等を持つ高校生・高専生向けに、最先端の情報学研究についての講義を行い、さらに受講生自身が日本の情報学分野のトップクラスの若手研究者と共同研究を行うプログラム。
     - 産業総合技術研究所のAI橋渡しクラウド(ABCI)を利用し、LLMのHallucination抑制についての研究を行った。
