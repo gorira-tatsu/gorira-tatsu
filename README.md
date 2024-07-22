@@ -11,13 +11,13 @@
 I'm conducting research on a method to detect and suppress hallucinations in large language models from the intermediate representations, without referring to external databases.
 
 ## 概要
-秋山達彦は高校生の研究者、エンジニア。国立情報学研究所らが実施するプログラム「情報科学の達人」に第四期生として参加。大規模言語モデルにおけるHallucinationを外部データベースを参照せず、中間表現から検出、抑制する手法について研究を行っている。
+秋山達彦は高校生の研究者、エンジニア。孫正義育英財団8期生。国立情報学研究所らが実施するプログラム「情報科学の達人」に第四期生として参加。大規模言語モデルにおけるHallucinationを外部データベースを参照せず、中間表現から検出、抑制する手法について研究を行っている。
 
 ## 研究分野
 Hallucination, Large Language Models (LLM), Natural Language Processing (NLP), Machine Learning, Human-Computer Interaction (HCI)
 
 ## 獲得奨学金
-- (未発表)財団 (2024年-)
+- 孫正義育英財団 (2024年-)
 
 ## 発表
 - 情報処理学会 ポスター発表 (2024年)
